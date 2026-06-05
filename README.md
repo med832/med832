@@ -4,7 +4,7 @@ I'm a passionate Data Analyst with a strong focus on extracting actionable insig
 
 ## My Expertise
 
--   **Programming Languages:** SQL, Python (Jupyter Notebook)
+-   **Programming Languages:** SQL
 -   **Data Analysis:** Data Cleaning, Exploratory Data Analysis (EDA), Statistical Analysis
 -   **Databases:** MySQL, PostgreSQL (implied from SQL projects)
 -   **Tools & Platforms:** GitHub, Power BI (from Data-Roles-Demand-Skills-and-Salary-Insights.pbix)
